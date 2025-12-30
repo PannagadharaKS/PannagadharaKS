@@ -70,21 +70,8 @@
 ## Professional Experience
 ```
 	Frontend Software Developer Intern - Secqure.io [Apr/2021 - Oct/2021]
-	- Developed efficient user interactive API's that handles concurrent users.
-	- Implemented **Custom Pagination** without any external dependencies via Data Structures.
-	- Assisted the Agile Team by contributing TypeORM & Backend implementations.
-```
-```
 	Software Developer Intern - iNetFrame Technologies [Jan/2022 - Jun/2022]
-	- Contributed to develop various algorithmic components such as Taking Quiz, Assigning Questions w.r.t. Marks Obtained in UI.
-	- Coordinated with Cross-Functional Teams.
-	- Designed & Developed Sudoku at the end of the Internship Program using basic Data Structures.
-```
-```
 	Software Developer - Health Chain [Aug/2022 - Present]
-	- Designed & Developed Backend architecture boosting the processing speed by >150% using asynchronous operations.
-	- Deployed a product that processes ~15 Million per day in Containerized environment without any inconsistencies.
-	- Researched on various POC's with various teams for efficient work environment via Gitlab / Jira  
 ```
 
 ---
@@ -112,9 +99,9 @@
 ## Hobbies / Facts
 * I Spend time on Drawing Glow Arts related to Anime / Games / Fictious Figures occasionally.
 * Love playing Video Games since childhood. [No specifications to any Genres / Platform]
-* Fluent in English, Kannada & hugely enthusiastic to learn Japanese in the future!
+* Fluent in English, Kannada, Hindi(Basic) & hugely enthusiastic to learn Japanese in the near future!
 * Expanding myself by exploring new technologies whenever needed.
 
 ---
 
-### Currently strengthening w.r.t. Data Structures & all the Basics to expand myself further! | 02102025
+### Currently strengthening w.r.t. **Data Structures, Front-End Technologies such as Next & React** based frameworks along with all the Basics to expand myself further!
