@@ -1,7 +1,6 @@
 <h1 align='center' >PANNAGADHARA KS</h1>
 
-* Skilled in building high-performance APIs, optimizing databases, designing distributed systems, and developing interactive Next.js frontends<br/>
-* Vigorous about Data Structures, Backend Engineering, and Scalable System Design
+I'm a Computer Science Engineer having adaptable experience in developing, engineering and optimizing production based applications. I am more suited in Data Structures and Algorithmic based real-world applications that can be adapted to any of the applicable languages.
 
 ---
 
@@ -75,6 +74,16 @@
 ```
 
 ---
+## Currently Working On
+
+* Practicing Data Structures & Algorithms through LeetCode as the anchor
+* Redis / HazelCast as Distributed Cache system Implementation from Node / GO Backend applications
+* Developing my personal Portfolio
+* Reassessing Myself
+
+---
+
+---
 
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=PannagadharaKS&theme=dark)](https://git.io/streak-stats)
@@ -103,5 +112,3 @@
 * Expanding myself by exploring new technologies whenever needed.
 
 ---
-
-### Currently strengthening w.r.t. **Data Structures, Front-End Technologies such as Next & React** based frameworks along with all the Basics to expand myself further!
