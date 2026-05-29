@@ -1,6 +1,6 @@
 <h1 align='center' >PANNAGADHARA KS</h1>
 
-I'm a Computer Science Engineer having adaptable experience in developing, engineering and optimizing production based applications. I am more suited in Data Structures and Algorithmic based real-world applications that can be adapted to any of the applicable languages.
+I'm a Computer Science Engineer with experience in developing and optimizing production applications, with a strong focus on Data Structures and Algorithms.
 
 ---
 
@@ -76,10 +76,7 @@ I'm a Computer Science Engineer having adaptable experience in developing, engin
 ---
 ## Currently Working On
 
-* Practicing Data Structures & Algorithms through LeetCode as the anchor
-* Redis / HazelCast as Distributed Cache system Implementation from Node / GO Backend applications
-* Developing my personal Portfolio
-* Reassessing Myself
+Recovering from Pneumonia while learning Japanese (N5 level) in my free time.
 
 ---
 
