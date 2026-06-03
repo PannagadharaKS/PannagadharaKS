@@ -76,7 +76,7 @@ I'm a Computer Science Engineer with experience in developing and optimizing pro
 ---
 ## Currently Working On
 
-Recovering from Pneumonia while learning Japanese (N5 level) in my free time.
+Learning Japanese (N5 level) while recovering from Pneumonia in my free time :>)
 
 ---
 
