@@ -67,20 +67,20 @@ I'm a Computer Science Engineer with experience in developing and optimizing pro
 ---
 
 ## Professional Experience
-```
-	Frontend Software Developer Intern - Secqure.io [Apr/2021 - Oct/2021]
-	Software Developer Intern - Health Chain [Jan/2022 - Jun/2022]
-	Software Developer - Health Chain [Aug/2022 - Present]
-```
+
+	* Frontend Software Developer Intern - Secqure.io [Apr/2021 - Oct/2021]
+	* Software Developer Intern - Health Chain [Jan/2022 - Jun/2022]
+	* Software Developer - Health Chain [Aug/2022 - Present]
+
 
 ---
 ## Currently Working On
 
-Learning Japanese (N5 level) while recovering from Pneumonia / CKD.
+* Learning Japanese (N5 level) while recovering from Pneumonia / CKD.
 
-Slowly picking up on the career skills.
+* Slowly picking up on the career skills.
 
-Keeping my mind calm from overthinking because of this big hiatus. (Surviving Rough Months 😞)
+* Keeping my mind calm from overthinking because of this big hiatus. (Surviving Rough Months 😞)
 
 ---
 
