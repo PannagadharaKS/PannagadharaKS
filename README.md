@@ -80,7 +80,7 @@ Learning Japanese (N5 level) while recovering from Pneumonia / CKD.
 
 Slowly picking up on the career skills.
 
-Keeping my mind calm from overthinking because of this big hiatus. (Surviving Rough Months :\)
+Keeping my mind calm from overthinking because of this big hiatus. (Surviving Rough Months 😞)
 
 ---
 
