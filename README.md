@@ -78,7 +78,7 @@ I'm a Computer Science Engineer with experience in developing and optimizing pro
 * Learning Japanese (N5 level) while recovering from Pneumonia / CKD.
 * Slowly picking up on the career skills.
 * Keeping my mind calm from overthinking because of this big hiatus. (Surviving a Rough Months 😞)
-    * Visualizing sitting near a tree surrounded by ocean, stars and galaxies above, to relax without thinking anything.
+    * Visualizing sitting near a tree surrounded by ocean, stars, galaxies and sunsets above, to relax without thinking anything.
 
 ---
 
